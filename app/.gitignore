@@ -1,0 +1,5 @@
+/build
+google-services.json
+release/app-release.apk
+/app/release/*.apk
+/release/*.apk
