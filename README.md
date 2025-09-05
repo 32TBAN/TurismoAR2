@@ -45,8 +45,13 @@ Queremos transformar una visita turística en algo educativo, atractivo y memora
 ---
 
 ## 🖼️ Capturas de Pantalla
-![Mapa turístico](docs/add-point.png)
-![Demo RA](docs/ra-demo.gif)
+[<img src="docs/add-point.png" width="250"/>](docs/add-point.png)
+[<img src="docs/ra-demo.gif" width="250"/>](docs/ra-demo.gif)
+[<img src="docs/home.jpeg" width="250"/>](docs/home.jpeg)
+[<img src="docs/map.jpeg" width="250"/>](docs/map.jpeg)
+[<img src="docs/markers.jpeg" width="250"/>](docs/markers.jpeg)
+[<img src="docs/object.jpeg" width="250"/>](docs/object.jpeg)
+[<img src="docs/object-1.jpeg" width="250"/>](docs/object-1.jpeg)
 
 ---
 
