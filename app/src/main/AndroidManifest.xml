@@ -37,7 +37,7 @@
 
         <meta-data
             android:name="com.google.android.ar.API_KEY"
-            android:value="AIzaSyB_ExdMw8DADzw17PRKgrNbmc1sYScXXEM" />
+            android:value="${AR_API_KEY}" />
 
         <activity
             android:name=".presentation.MainActivity"

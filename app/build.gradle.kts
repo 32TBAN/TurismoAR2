@@ -18,6 +18,11 @@ android {
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+
+        manifestPlaceholders.put(
+            "AR_API_KEY",
+            if (project.hasProperty("AR_API_KEY")) project.property("AR_API_KEY") as String else ""
+        )
     }
 
     buildTypes {
